@@ -1,0 +1,1 @@
+print("Entrada inválida: Lista vazia")
