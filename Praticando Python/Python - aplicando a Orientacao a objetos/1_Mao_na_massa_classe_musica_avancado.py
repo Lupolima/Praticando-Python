@@ -13,3 +13,4 @@ musicas = [musica1, musica2, musica3]
 for musica in musicas:
     print(f'{musica.nome} - {musica.artista} - {musica.duracao}')
 
+

@@ -21,3 +21,4 @@ musica3.duracao = "6:30"
 print(musica1.nome, "-", musica1.artista, "-", musica1.duracao)
 print(f"{musica2.nome} - {musica2.artista} - {musica2.duracao}")
 print(musica3.nome, musica3.artista, musica3.duracao)
+
